@@ -1,6 +1,6 @@
 # Neureka
 
-Eureka client library written in Go for `CoreLock` game
+Eureka client library written in Go for `Blockman Forge` game
 
 ## Object Definitions
 
